@@ -1,0 +1,7 @@
+D:\VisualStudio_Projects\CourseHackerU\HW060219\HW060219\obj\Debug\HW060219.csprojAssemblyReference.cache
+D:\VisualStudio_Projects\CourseHackerU\HW060219\HW060219\obj\Debug\HW060219.csproj.CoreCompileInputs.cache
+D:\VisualStudio_Projects\CourseHackerU\HW060219\HW060219\bin\Debug\HW060219.exe.config
+D:\VisualStudio_Projects\CourseHackerU\HW060219\HW060219\bin\Debug\HW060219.exe
+D:\VisualStudio_Projects\CourseHackerU\HW060219\HW060219\bin\Debug\HW060219.pdb
+D:\VisualStudio_Projects\CourseHackerU\HW060219\HW060219\obj\Debug\HW060219.exe
+D:\VisualStudio_Projects\CourseHackerU\HW060219\HW060219\obj\Debug\HW060219.pdb
